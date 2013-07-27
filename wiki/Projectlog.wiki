@@ -1,7 +1,7 @@
 #labels Phase-Design,Featured
 Here will be the actual To-Do's for this Project
 
-= Project meved to GutHub =
+= Project meved to github =
 https://github.com/Pirngruber/AndroidIM
 
 = To-Do =
