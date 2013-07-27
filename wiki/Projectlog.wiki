@@ -1,8 +1,8 @@
-#labels Phase-Design
+#labels Phase-Design,Featured
 Here will be the actual To-Do's for this Project
 
-== Please use this Link to get the files ==
-https://drive.google.com/folderview?id=0BwTF3sldWwLAeXdEYUVweUVEc3c&usp=sharing
+= Project meved to GutHub =
+https://github.com/Pirngruber/AndroidIM
 
 = To-Do =
 
